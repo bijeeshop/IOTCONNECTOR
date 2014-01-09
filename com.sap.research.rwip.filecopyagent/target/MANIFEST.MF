@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-Vendor: SAP
+Bundle-Version: 1.0.0.201401090842
+Bundle-Name: Filecopyagent
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.sap.research.rwip.filecopyagent
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+
